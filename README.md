@@ -1,2 +1,2 @@
 # Stock-Prediction
-Predicating Closing via ARIMA and RNN 
+Predicating Closing Value via ARIMA and RNN 
